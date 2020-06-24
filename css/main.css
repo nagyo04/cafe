@@ -1,0 +1,99 @@
+@charset "utf-8";
+
+/*메인슬라이더*/
+.mainSlider{height:830px; overflow:hidden; /*padding-top:220px; box-sizing:border-box; background:url(../images/main/mainSlider.png) no-repeat center center;  */  background-size:cover; color:#fff; text-align:center; font-weight:900; font-size:40px; font-weight:900;}
+.mainVideo{position:absolute; left:50%; margin-left:-960px; }
+.sliderTxt{position:absolute; top:220px; width:100%;}
+.mainSlider img{ text-indent:-999px;}
+.sliderBtn{ width:32px; height:58px; position:absolute; top:50%; margin-top:-29px;  }
+.sliderBtn a{}
+.prexBtn{background:url(../images/main/arrow01.png) no-repeat; left:30px;}
+.nextBtn{background:url(../images/main/arrow02.png) no-repeat; right:30px;}
+
+/*기업정보*/
+.mainCon01{text-align:center; padding:90px 0;}
+.conTit{font-size:30px; font-weight:500;}
+
+.companyInfo{display:inline-block; padding:70px 0; }
+.companyInfo li{float:left; padding:0 20px; border-right:1px solid #ccc;}
+.companyInfo li:last-child{border-right:0;}
+.companyInfo li img{}
+
+.listTit{font-size:18px;}
+.listTxt{font-size:25px; font-weight:200;}
+.listTxt span{font-size:40px;}
+
+.moreBtn{background:#053285 url(../images/main/main02arrow.png) no-repeat 150px center;  width:180px; margin:0 auto; height:45px; line-height:45px; text-align:left; font-weight:200;}
+.moreBtn a{color:#fff; display:block;}
+
+.con01Txt{position:absolute; right:0; bottom:-40px; color:#4646; font-size:14px; font-weight:200;}
+.con01List{display:inline-block; position:relative;}
+
+
+/*mainCon02*/
+.mainCon02{background:url(../images/main/main04.png) no-repeat center center; background-size:cover; padding:80px 0 280px 0;}
+.con02Box{background:#fff; width:1330px; margin:0 auto; padding:50px 100px; box-sizing:border-box; }
+.con02Box h2{text-align:center;}
+
+.newsList{padding:60px 0;}
+.newsList li{width:260px; float:left; margin-right:30px;}
+.newsList li:last-child{margin-right:0;}
+.newsList li a{}
+.newsList li a p{font-size:18px; word-break:keep-all; font-weight: 500; border-bottom:2px solid #d6d6d6; padding-bottom:20px; margin-bottom:20px; min-height:90px; max-height:90px;}
+.date{font-size:16px; font-weight:200;}
+
+.newsRoomB{width:540px; margin-right:50px; float:left; height:190px; padding:20px 30px; box-sizing:border-box; margin-top:30px;}
+.newsRoomB h3{font-size:30px; font-weight:500}
+.newsRoomB p{margin:18px 0;}
+
+.newsLetter{background:url(../images/main/main04con01.png) no-repeat center center; background-size:cover;}
+.newsLetterBtn{}
+.newsLetterBtn li{background:#fff url(../images/main/main05arrow.png) no-repeat 90% center; width:150px; height:45px; float:left; margin-right:40px; text-align:center; line-height:40px;}
+.newsLetterBtn li a{}
+.newsLetterBtn li a p{}
+
+.newsSns{margin-right:0; padding-left:0;}
+.snsBtn{text-indent:-999px;}
+.snsBtn li{width:60px; height:60px; background-color:#898989; background-position:center center; background-repeat:no-repeat; float:left; border-radius:50%; margin-right:30px; }
+.snsBtn li a{display:block; width:100%;}
+
+.snsBtn .youtube{background-image:url(../images/main/main04con03.png)}
+.snsBtn .blog{background-image:url(../images/main/main04con04.png)}
+.snsBtn .facdbook{background-image:url(../images/main/main04con05.png)}
+.snsBtn .instar{background-image:url(../images/main/main04con06.png)}
+
+/*mainCon03*/
+.mainCon03{margin-top:-150px;}
+
+.mainCon03 h2{text-align:center; color:#fff; margin-bottom:30px;}
+
+.con03{float:left; width:350px; margin-right:75px;}
+.con03:last-child{margin-right:0;}
+.con03 img{display:block;}
+.con03 h3{color:#4365A3; font-size:25px; font-weight:500; margin-top:30px; margin-bottom:20px;}
+.con03 p{line-height:25px;}
+
+.con03List{border-top:2px solid #E8EDF4; margin-top:20px;}
+.con03List li{height:80px; line-height:80px; border-bottom:1px solid #ccc; background:url(../images/main/main05arrow.png) no-repeat right center; font-size:18px;}
+.con03List li a{ display:block;}
+
+
+/*siteMap*/
+.siteMap{background:#f3f3f3; margin-top:120px; padding:60px 0 120px 0;}
+.siteMap dl{float:left; margin-right:186px;}
+.siteMap dl:last-child{margin-right:0;}
+.siteMap dt{font-size:18px; font-weight:500; margin-bottom:30px; }
+.siteMap dd{font-size:15px; font-weight:200; margin-bottom:30px;(=line-height:30px)}
+.siteMap dd a{}
+
+
+
+
+/*mainCon05*/
+.mainCon05{}
+
+/*mainCon06*/
+.mainCon06{}
+
+/**/
+/**/
